@@ -8,7 +8,7 @@ License-Url: http://dev.perl.org/licenses/
 Vendor: perl.org
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: ironcladlou
-Source-Url: https://github.com/ironcladlou/openshift-origin-cartridge-perl.git
+Source-Url: https://github.com/openshift-qe/openshift-origin-cartridge-perl.git
 Categories:
   - service
   - perl
